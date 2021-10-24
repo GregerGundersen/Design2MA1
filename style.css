@@ -1,11 +1,13 @@
 body {
   margin: 0;
   box-sizing: border-box;
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
 }
 
 main {
-  background-color: #ffffff;
-  background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
+  /* background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png"); */
 }
 
 h1,
